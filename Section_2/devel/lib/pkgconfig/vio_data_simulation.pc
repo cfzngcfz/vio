@@ -1,0 +1,8 @@
+prefix=/code/cpp/VIO-Course/section2/devel
+
+Name: vio_data_simulation
+Description: Description of vio_data_simulation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

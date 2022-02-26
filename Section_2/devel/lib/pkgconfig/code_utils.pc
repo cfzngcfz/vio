@@ -1,0 +1,8 @@
+prefix=/code/cpp/VIO-Course/section2/devel
+
+Name: code_utils
+Description: Description of code_utils
+Version: 0.0.0
+Cflags: -I/code/cpp/VIO-Course/section2/src/code_utils/include
+Libs: -L${prefix}/lib -lpolynomial -lcv_utils -lpnp
+Requires: roscpp std_msgs
